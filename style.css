@@ -1,0 +1,28 @@
+tr:first-child{
+    color: rgb(23, 65, 65);
+    
+}
+tr:nth-child(2){
+    color: red;
+}
+tr:last-child{
+    color: greenyellow;
+}
+tr:nth-child(3){
+    color: green;
+}
+tr:nth-child(4){
+     color: pink;
+}
+tr:nth-child(5){
+    color: purple;
+}
+table{
+    font-size: 30px;
+}
+b:hover{
+    background-color: lime;
+}
+tr:hover{
+    background-color: rgb(94, 206, 206);
+}
